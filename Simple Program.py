@@ -5,6 +5,8 @@ Purpose: Nothing too serious with this program. This is to showcase and verify t
          with VS Code and GitHub.
 """
 
+hello = 'Hello World!'
+
 #Defined functions for each set {regular, uppercase, lowercase}.
 def display_regular(message):
     print(message)
@@ -28,3 +30,11 @@ user_message = input('\nWhat would you like to test? ')
 display_regular(user_message)
 display_uppercase(user_message)
 display_lowercase(user_message)
+
+#Spaces between displayed output.
+print()
+
+#Calls the function to alternate the hard-coded print.
+display_regular(hello)
+display_uppercase(hello)
+display_lowercase(hello)
