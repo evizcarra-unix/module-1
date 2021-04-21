@@ -2,7 +2,8 @@
 Author: Ezra Vizcarra
 Topic: Simple Program
 Purpose: Nothing too serious with this program. This is to showcase and verify the synchronized process
-         with VS Code and GitHub."""
+         with VS Code and GitHub.
+"""
 
 #Defined functions for each set {regular, uppercase, lowercase}.
 def display_regular(message):
