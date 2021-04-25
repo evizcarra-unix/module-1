@@ -14,9 +14,7 @@ The basic function of the program is to enable the User to see their typed words
 3. Lowercase format (Everything entered in lowercase).
 {Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/g5v39ZmCwXg)
 
 # Development Environment
 
